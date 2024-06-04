@@ -100,8 +100,7 @@ introduction:
    <a href="https://www.oracle.com/fr/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="oracle" width="40" height="40"/>
     </a>
-     rc="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-    </a>
+    
 
   </li>
     
