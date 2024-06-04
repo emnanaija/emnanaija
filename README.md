@@ -92,7 +92,7 @@ introduction:
 
 
   <li>
-     <h3 align="left">DATA/Databases/Analytics:</h3>
+     <h3 align="left">Databases</h3>
             <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/>
     </a>
