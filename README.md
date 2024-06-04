@@ -67,6 +67,10 @@ introduction:
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
+      <a href="https://fr.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
+    <img src="   https://img.icons8.com/?size=256&id=40669&format=png" alt="c++" width="40" height="40"/>
+  </a>
+  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
