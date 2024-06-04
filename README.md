@@ -28,7 +28,7 @@ introduction:
 - 📫 How to reach me :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emna-naija-a14551244/) 
-[![Gmail](https://img.shields.io/badge/-maher.naija-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:emnanaija@gmail.com) 
+[![Gmail](https://img.shields.io/badge/-emna.naija-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:emnanaija@gmail.com) 
 
 
 
@@ -37,7 +37,7 @@ introduction:
 
 <ul>
 
-    <li>
+ <li>
   <h3 align="left">Frameworks:</h3>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
