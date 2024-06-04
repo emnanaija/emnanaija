@@ -28,7 +28,7 @@ introduction:
 - 📫 How to reach me :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emna-naija-a14551244/) 
-[![Gmail](https://img.shields.io/badge/-emna.naija-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:emnanaija@gmail.com) 
+[![Gmail](https://img.shields.io/badge/-emnanaija-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:emnanaija@gmail.com) 
 
 
 
@@ -60,7 +60,7 @@ introduction:
   <li>
      <h3 align="left">Laguages:</h3>
         <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer">
-      <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/java/java-horizontal.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/java/index.html&backText=Return+to+VectorLogoZone" alt="java" width="40" height="40"/>
+      <img src="https://banner2.cleanpng.com/20181109/oll/kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-5be5b5a7384425.8069537615417809032305.jpg" alt="java" width="40" height="40"/>
     </a>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
