@@ -1,5 +1,5 @@
 [![Gmail](https://img.shields.io/badge/-emnanaija-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:emnanaija@gmail.com) 
-[![Github](https://github.com/emnanaija)](https://github.com/emnanaija) 
+[![Github](https://img.shields.io/github/followers/emnanaija?label=Follow&style=social)](https://github.com/emnanaija) 
 
 <h1 align="center">Hi 👋, I'm Emna NAIJA</h1>
 
