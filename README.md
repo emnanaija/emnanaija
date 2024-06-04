@@ -62,10 +62,10 @@ introduction:
         <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer">
       <img src="https://banner2.cleanpng.com/20181109/oll/kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-5be5b5a7384425.8069537615417809032305.jpg" alt="java" width="40" height="40"/>
     </a>
-     
-        <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank" rel="noreferrer">
-      <img src=" https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
+       <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer">
+      <img src="   https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="java" width="40" height="40"/>
     </a>
+  
         <a href="https://golang.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
     </a>
