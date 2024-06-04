@@ -65,9 +65,10 @@ introduction:
     <img src="https://banner2.cleanpng.com/20181109/oll/kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-5be5b5a7384425.8069537615417809032305.jpg" alt="java" width="40" height="40"/>
   </a>
 
-     <a href="https://fr.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://banner2.cleanpng.com/20180810/biz/kisspng-javascript-scalable-vector-graphics-logo-encapsula-javascript-le-ekran-grnts-almak-alpere-5b6dbeb48e4583.2854840415339189005828.jpg" alt="javaScript" width="40" height="40"/>
-  </a>
+   <a href="https://fr.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://banner2.cleanpng.com/20180810/biz/kisspng-javascript-scalable-vector-graphics-logo-encapsula-javascript-le-ekran-grnts-almak-alpere-5b6dbeb48e4583.2854840415339189005828.jpg" alt="JavaScript" width="40" height="40"/>
+</a>
+
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
