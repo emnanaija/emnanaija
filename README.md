@@ -51,6 +51,10 @@ introduction:
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40"/>
   </a>
+       </a>
+  <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" alt="JavaFX" width="40" height="40"/>
+  </a>
 </li>
 
   <li>
